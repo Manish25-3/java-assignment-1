@@ -1,0 +1,12 @@
+compiler :
+a program that converts instructions into a machine-code or lower-level form so that they can be read and executed by a computer:
+
+compilation :
+The compilation is a process of converting the source code into object code. It is done with the help of the compiler. The compiler checks the source code for the syntactical or structural errors, and if the source code is error-free, then it generates the object code.
+
+Interpreter :
+ An interpreter is a computer program that is used to directly execute program instructions written using one of the many high-level programming languages. The interpreter transforms the high-level program into an intermediate language that it then executes, or it could parse the high-level source code and then performs the commands directly, which is done line by line or statement by statement.
+
+ 
+
+
